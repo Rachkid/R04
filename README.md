@@ -56,15 +56,15 @@ Objectif       : Implémentation d’un shell simplifié
 📁 STRUCTURE DU FICHIER
 ------------------------------------------------------------
 minishell.c  → Fichier source unique contenant tout le code
-README.txt   → Présentation du projet, compétences, usage
+README.md   → Présentation du projet, compétences, usage
 
 ------------------------------------------------------------
-✍️ AUTEUR
+✍️ AUTEURS
 ------------------------------------------------------------
-Nom : 
-Abouzeïdi_Idé_A
-Rafiatou_SH
-Harouna_Moussa_AR
-Amadou_Tidjani_Alou_HA
+Noms : 
+●Abouzeïdi_Idé_A
+●Rafiatou_SH
+●Harouna_Moussa_AR
+●Amadou_Tidjani_Alou_HA
 Projet réalisé sur : Termux (Android) ou VScode(ordinateur)
 Encadrement : Projet hebdomadaire - Semaine 4
